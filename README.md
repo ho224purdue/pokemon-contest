@@ -5,6 +5,7 @@
 ### Links to help host it on Google Drive:
 - (https://towardsdatascience.com/pro-tip-for-downloading-custom-datasets-in-colab-environment-5413896d14ec) - download zipped file and upload to Drive
 - (https://www.vsaytech.com/deep-learning/google-drive-google-colab-github-dont-just-read-do-it/) - mount Drive to Colab, clone repo, and more
+- (https://bebi103a.github.io/lessons/02/git_with_colab.html) - open a repo on Colab
 
 ### Links to load the dataset:
 - (https://www.tensorflow.org/tutorials/load_data/pandas_dataframe) - load a pandas dataframe as a dataset
