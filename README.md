@@ -1,5 +1,8 @@
 # pokemon-contest
 
+### Song requests:
+https://docs.google.com/spreadsheets/d/1meCOevcCKUXD1g5oSq21gmGNW8e0tSlGvm8vW_AI68s/edit#gid=0
+
 ## Some helpful resources
 
 ### Links to help host it on Google Drive:
